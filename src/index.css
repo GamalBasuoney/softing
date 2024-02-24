@@ -1,0 +1,21 @@
+:root {
+  --main-color: #4ac4f3;
+  --second-color: #999999;
+  --third-color: #333333;
+  --bg: #e9f1fb;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
